@@ -1,23 +1,25 @@
 #PT tracker
-#馒头tracker
+#馒头
 DOMAIN,tracker.m-team.cc
-#岛tarcker
+#岛
 DOMAIN,tracker.ptchdbits.co
 DOMAIN,tracker.rainbowisland.co
 DOMAIN,chdbits.xyz
-#观众tracker
+#观众
 DOMAIN,t.audiences.me
 DOMAIN,tracker.cinefiles.info
-#天空tracker
+#天空
 DOMAIN,tracker.hdsky.me
-#我堡tracker，web同
+#我堡，web同
 DOMAIN,ourbits.club
-#春天tracker
+#春天
 DOMAIN,on.springsunday.net
-#朋友tracker
-DOMAIN,tracker.keepfrds.com
 #套
 DOMAIN,tracker.totheglory.im
+#家园
+DOMAIN,t.hdhome.org
+#朋友
+DOMAIN,tracker.keepfrds.com
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
