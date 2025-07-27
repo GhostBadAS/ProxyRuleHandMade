@@ -7,8 +7,9 @@ DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,audiences.me
 #天空
 DOMAIN-SUFFIX,hdsky.me
-#我堡cdn
+#我堡
 DOMAIN,cdn.ourhelp.club
+DOMAIN,api.ourhelp.club
 #春天
 DOMAIN-SUFFIX,springsunday.net
 #套
