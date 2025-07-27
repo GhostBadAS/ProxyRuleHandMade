@@ -12,6 +12,8 @@ DOMAIN,tracker.cinefiles.info
 DOMAIN,tracker.hdsky.me
 #我堡tracker，web同
 DOMAIN,ourbits.club
+#春天tracker
+DOMAIN,on.springsunday.net
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
@@ -276,7 +278,6 @@ DOMAIN-SUFFIX,sharkpt.net
 DOMAIN-SUFFIX,sjtu.edu.cn
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,torrentday.com
