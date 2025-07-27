@@ -2,10 +2,12 @@
 #馒头
 DOMAIN-KEYWORD,m-team
 #岛
-DOMAIN,ptchdbits.co
+DOMAIN-SUFFIX,ptchdbits.co
 #观众
-DOMAIN,audiences.me
+DOMAIN-SUFFIX,audiences.me
 #天空
-DOMAIN,hdsky.me
+DOMAIN-SUFFIX,hdsky.me
 #春天
-DOMAIN,springsunday.net
+DOMAIN-SUFFIX,springsunday.net
+#朋友
+DOMAIN-SUFFIX,keepfrds.com

@@ -14,6 +14,8 @@ DOMAIN,tracker.hdsky.me
 DOMAIN,ourbits.club
 #春天tracker
 DOMAIN,on.springsunday.net
+#朋友tracker
+DOMAIN,tracker.keepfrds.com
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
@@ -242,7 +244,6 @@ DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,kamept.com
 DOMAIN-SUFFIX,karagarga.in
-DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,landof.tv
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,lemonhd.org
