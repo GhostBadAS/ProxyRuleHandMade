@@ -29,6 +29,8 @@ DOMAIN,tracker.hhanclub.top
 DOMAIN,t.ubits.club
 #Sunny
 DOMAIN,sunnytk.top
+#LGS
+DOMAIN-SUFFIX,ptl.gs
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
