@@ -25,6 +25,8 @@ DOMAIN,tracker.keepfrds.com
 DOMAIN,tracker.pterclub.com
 #憨憨
 DOMAIN,tracker.hhanclub.top
+#你堡
+DOMAIN,t.ubits.club
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
