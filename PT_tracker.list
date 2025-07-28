@@ -27,6 +27,8 @@ DOMAIN,tracker.pterclub.com
 DOMAIN,tracker.hhanclub.top
 #你堡
 DOMAIN,t.ubits.club
+#Sunny
+DOMAIN,sunnytk.top
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
