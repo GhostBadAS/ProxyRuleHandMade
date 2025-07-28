@@ -23,6 +23,8 @@ DOMAIN,t.hdhome.org
 DOMAIN,tracker.keepfrds.com
 #猫
 DOMAIN,tracker.pterclub.com
+#憨憨
+DOMAIN,tracker.hhanclub.top
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
@@ -238,7 +240,6 @@ DOMAIN-SUFFIX,hdstreet.club
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,hdupt.com
 DOMAIN-SUFFIX,hdzone.me
-DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
