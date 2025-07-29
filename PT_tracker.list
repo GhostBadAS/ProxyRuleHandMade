@@ -33,6 +33,8 @@ DOMAIN,sunnytk.top
 DOMAIN-SUFFIX,ptl.gs
 #杜比
 DOMAIN-SUFFIX,hddolby.com
+#U2
+DOMAIN,daydream.dmhy.best
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
@@ -296,7 +298,6 @@ DOMAIN-SUFFIX,torrentday.com
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,torrentseeds.org
 DOMAIN-SUFFIX,trontv.com
-DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
 DOMAIN-KEYWORD,announce
