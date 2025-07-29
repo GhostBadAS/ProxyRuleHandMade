@@ -31,6 +31,8 @@ DOMAIN,t.ubits.club
 DOMAIN,sunnytk.top
 #LGS
 DOMAIN-SUFFIX,ptl.gs
+#杜比
+DOMAIN,t.hddolby.com
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
