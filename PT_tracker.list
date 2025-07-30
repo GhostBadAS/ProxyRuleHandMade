@@ -43,6 +43,8 @@ aDOMAIN,nime-no-index.com
 DOMAIN,tracker-public.tjupt.org
 #烧包
 DOMAIN,ptsbao.club
+#TLF
+DOMAIN,pt.eastgame.org
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me,DIRECT
 
