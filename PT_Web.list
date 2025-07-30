@@ -8,8 +8,7 @@ DOMAIN-SUFFIX,audiences.me
 #天空
 DOMAIN-SUFFIX,hdsky.me
 #我堡
-DOMAIN,cdn.ourhelp.club
-DOMAIN,api.ourhelp.club
+DOMAIN-SUFFIX,ourhelp.club
 #春天
 DOMAIN-SUFFIX,springsunday.net
 #套
@@ -38,3 +37,5 @@ DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,monikadesign.uk
 #北洋园
 DOMAIN-SUFFIX,tjupt.org
+#烧包
+#与tracker相同
