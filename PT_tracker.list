@@ -42,13 +42,15 @@ aDOMAIN,nime-no-index.com
 #北洋园
 DOMAIN,tracker-public.tjupt.org
 #烧包
-DOMAIN,ptsbao.club
+DOMAIN-SUFFIX,ptsbao.club
 #TLF
-DOMAIN,pt.eastgame.org
+DOMAIN-SUFFIX,pt.eastgame.org
 #蝶粉
-DOMAIN,discfan.net
+DOMAIN-SUFFIX,discfan.net
 #TCCF
-DOMAIN,et8.org
+DOMAIN-SUFFIX,et8.org
+#葡萄
+DOMAIN,tracker.sjtu.edu.cn
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me
 
@@ -237,7 +239,6 @@ DOMAIN-SUFFIX,creditracker.net
 DOMAIN-SUFFIX,dicmusic.club
 DOMAIN-SUFFIX,dxdhd.com
 DOMAIN-SUFFIX,empornium.me
-DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,extremlymtorrents.ws
 DOMAIN-SUFFIX,filelist.io
@@ -300,7 +301,6 @@ DOMAIN-SUFFIX,qingwa.pro
 DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,sharkpt.net
-DOMAIN-SUFFIX,sjtu.edu.cn
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,tju.pt
