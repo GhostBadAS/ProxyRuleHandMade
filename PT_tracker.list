@@ -47,8 +47,10 @@ DOMAIN,ptsbao.club
 DOMAIN,pt.eastgame.org
 #蝶粉
 DOMAIN,discfan.net
+#TCCF
+DOMAIN,et8.org
 #猪猪，主站异地登录
-DOMAIN-SUFFIX,piggo.me,DIRECT
+DOMAIN-SUFFIX,piggo.me
 
 #原始复制，暂存
 DOMAIN,0123456789nonexistent.com
