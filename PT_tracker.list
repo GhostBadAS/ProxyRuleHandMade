@@ -1,5 +1,5 @@
 #Steam
-DOMAIN-SUFFIX,steamcontent.com:443
+DOMAIN-SUFFIX,steamcontent.com
 #PT tracker
 #馒头
 DOMAIN,tracker.m-team.cc
