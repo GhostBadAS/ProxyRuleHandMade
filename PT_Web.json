@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ptchdbits.co",
+        "audiences.me",
+        "hdsky.me",
+        "ourhelp.club",
+        "springsunday.net",
+        "totheglory.im",
+        "hdhome.org",
+        "keepfrds.com",
+        "pterclub.com",
+        "ubits.club",
+        "sunnypt.top",
+        "ptlgs.org",
+        "pthome.net",
+        "dmhy.org",
+        "monikadesign.uk",
+        "tjupt.org",
+        "discfan.net",
+        "et8.org",
+        "sjtu.edu.cn",
+        "star-space.net",
+        "zmpt.cc"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "m-team"
+      ]
+    }
+  ],
+  "version": 2
+}

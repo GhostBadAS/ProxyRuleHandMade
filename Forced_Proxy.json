@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "fanart.tv",
+        "bbs.acgrip.com",
+        "sbsub.com",
+        "vcb-s.com",
+        "buzheteng.org",
+        "kuefone.com",
+        "hsy88.org",
+        "cnlang.org",
+        "stor.picx.cx",
+        "iili.io",
+        "wsrv.nl",
+        "picgo.net",
+        "wowcool.moe",
+        "subhd.cc",
+        "deefun.com",
+        "movie-pilot.org",
+        "hdhive.com",
+        "hdhive.online"
+      ]
+    }
+  ],
+  "version": 2
+}
