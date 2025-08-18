@@ -51,8 +51,26 @@ DOMAIN,discfan.xyz
 DOMAIN,t.et8.org
 #葡萄
 DOMAIN,tracker.sjtu.edu.cn
+#青蛙
+DOMAIN,tracker.qingwa.pro
+DOMAIN,tracker.qingwapt.com
+DOMAIN,tracker.qingwapt.org
+#AGSV
+DOMAIN,tracker.agsvpt.cn
+#星空
+DOMAIN,star-space.net
+#财神
+DOMAIN,tracker.cspt.top
+DOMAIN,tracker.cspt.date
+DOMAIN,tracker.cspt.cc
+#UltraHD
+DOMAIN,ultrahd.net
 #猪猪，主站异地登录
 DOMAIN-SUFFIX,piggo.me
+#红豆饭
+DOMAIN,hdfans.org
+#高清视界
+DOMAIN,tracker.hdarea.club
 
 #原始复制，暂存
 DOMAIN,0123456789nonexistent.com
