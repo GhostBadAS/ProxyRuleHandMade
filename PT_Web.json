@@ -2,6 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "m-team.cc",
+        "m-team.io",
         "ptchdbits.co",
         "audiences.me",
         "hdsky.me",
@@ -36,11 +38,6 @@
         "tmpt.top",
         "carpt.net",
         "open.cd"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "m-team"
       ]
     }
   ],
