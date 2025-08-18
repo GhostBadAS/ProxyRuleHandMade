@@ -25,7 +25,7 @@ for %%f in (*.json) do (
     %SINGBOX% rule-set compile --output "%%~nf.srs" "%%f"
 )
 
-echo.
-echo ? 所有 list 已转换为 json 并编译为 srs
+echo 所有 list 已转换为 json 并编译为 srs
+python 提取纯域名.py
 
 @REM .\build.cmd
