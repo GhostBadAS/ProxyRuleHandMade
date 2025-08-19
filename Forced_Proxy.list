@@ -1,4 +1,4 @@
-#强制代理的漏网之鱼
+#Fanart.tv
 DOMAIN-SUFFIX,fanart.tv
 #vcb字幕论坛
 DOMAIN-SUFFIX,bbs.acgrip.com
@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,buzheteng.org
 DOMAIN-SUFFIX,kuefone.com
 DOMAIN-SUFFIX,hongxingyun.help
 DOMAIN-SUFFIX,hongxingyun.xyz
+DOMAIN-SUFFIX,hongxingyun.club
+DOMAIN-SUFFIX,hongxingyun.pro
+DOMAIN-SUFFIX,hongxingyun.blog
+DOMAIN-SUFFIX,idsduf.com
 #国语视界
 DOMAIN-SUFFIX,cnlang.org
 #多看
@@ -19,7 +23,7 @@ DOMAIN-SUFFIX,duokan.club
 #超清视界
 hdshot.net
 #图床
-DOMAIN-SUFFIX,stor.picx.cx
+DOMAIN-SUFFIX,picx.cx
 DOMAIN-SUFFIX,iili.io
 DOMAIN-SUFFIX,wsrv.nl
 DOMAIN-SUFFIX,picgo.net
