@@ -32,6 +32,7 @@ tracker.qingwapt.com
 tracker.qingwapt.org
 tracker.agsvpt.cn
 star-space.net
+cspt.top
 tracker.cspt.top
 tracker.cspt.date
 tracker.cspt.cc
