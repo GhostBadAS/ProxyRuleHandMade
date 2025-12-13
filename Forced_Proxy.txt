@@ -11,7 +11,6 @@ hongxingyun.pro
 hongxingyun.blog
 idsduf.com
 cnlang.org
-duokan.club
 hdshot.net
 picx.cx
 iili.io
@@ -20,6 +19,7 @@ picgo.net
 imgs.ovh
 ptdream.net
 img.ptsbao.club
+shewang.net
 wowcool.moe
 subhd.cc
 deefun.com
