@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,ourhelp.club
 #春天
 DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,hdcmct.org
 #套
 DOMAIN-SUFFIX,totheglory.im
 #家园
@@ -32,7 +33,8 @@ DOMAIN-SUFFIX,ptlgs.org
 #铂金家
 DOMAIN-SUFFIX,pthome.net
 #杜比
-#异地登陆
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,ptdream.net
 #u2/动漫花园
 DOMAIN-SUFFIX,dmhy.org
 #莫妮卡
@@ -62,7 +64,7 @@ DOMAIN-SUFFIX,zmpt.cc
 #UltraHD
 #与tracker同域名
 #猪猪
-#异地登陆
+DOMAIN-SUFFIX,piggo.me
 #红豆饭
 #与tracker同域名
 #高清视界
