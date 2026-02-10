@@ -28,10 +28,11 @@ for %%f in (*.json) do (
     %SINGBOX% rule-set compile --output "singbox\%%~nf.srs" "%%f"
 )
 
+REM python clean.py
 REM 遍历当前目录的所有 list 文件并编译成 srs
-for %%f in (*.list) do (
-    echo 正在编译 %%f ...
-    %mihomo% convert-ruleset classical text "%%f" "mihomo\%%~nf.srs"
+for %%f in (*.txt) do (
+    echo 正在编译 %%~nxf ...
+    "%mihomo%" convert-ruleset domain text "%%f" "mihomo\%%~nf.srs"
 )
 
 echo 所有 list 已转换为 json 并编译为 srs
