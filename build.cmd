@@ -10,6 +10,9 @@ set PYTHON_SCRIPT=规则转换.py
 REM sing-box.exe 路径（如果已在同目录，不用改）
 set SINGBOX=sing-box.exe
 
+REM mihomo.exe 路径（如果已在同目录，不用改）
+set mihomo=mihomo-windows-amd64-compatible.exe
+
 REM 先执行 Python 脚本（需要系统已安装 Python）
 echo 正在运行规则转换脚本 %PYTHON_SCRIPT% ...
 python "%PYTHON_SCRIPT%"
@@ -22,7 +25,13 @@ if errorlevel 1 (
 REM 遍历当前目录的所有 json 文件并编译成 srs
 for %%f in (*.json) do (
     echo 正在编译 %%f ...
-    %SINGBOX% rule-set compile --output "%%~nf.srs" "%%f"
+    %SINGBOX% rule-set compile --output "singbox\%%~nf.srs" "%%f"
+)
+
+REM 遍历当前目录的所有 list 文件并编译成 srs
+for %%f in (*.list) do (
+    echo 正在编译 %%f ...
+    %mihomo% convert-ruleset classical text "%%f" "mihomo\%%~nf.srs"
 )
 
 echo 所有 list 已转换为 json 并编译为 srs
