@@ -30,10 +30,10 @@ for %%f in (*.json) do (
 
 REM python clean.py
 REM 遍历当前目录的所有 list 文件并编译成 srs
-for %%f in (*.txt) do (
-    echo 正在编译 %%~nxf ...
-    "%mihomo%" convert-ruleset domain text "%%f" "mihomo\%%~nf.srs"
-)
+REM for %%f in (*.txt) do (
+REM     echo 正在编译 %%~nxf ...
+REM     "%mihomo%" convert-ruleset domain text "%%f" "mihomo\%%~nf.srs"
+REM )
 
 echo 所有 list 已转换为 json 并编译为 srs
 python 提取纯域名.py
