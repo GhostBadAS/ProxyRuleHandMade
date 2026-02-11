@@ -23,7 +23,8 @@ DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pterclub.net
 #憨憨
-DOMAIN-SUFFIX,hhanclub.net
+#DOMAIN-SUFFIX,hhanclub.net
+#HH屏蔽机场
 #你堡
 DOMAIN-SUFFIX,ubits.club
 #Sunny
