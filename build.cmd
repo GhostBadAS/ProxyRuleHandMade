@@ -25,7 +25,7 @@ if errorlevel 1 (
 REM 遍历当前目录的所有 json 文件并编译成 srs
 for %%f in (*.json) do (
     echo 正在编译 %%f ...
-    %SINGBOX% rule-set compile --output "singbox\%%~nf.srs" "%%f"
+    %SINGBOX% rule-set compile --output "%%~nf.srs" "%%f"
 )
 
 REM python clean.py
