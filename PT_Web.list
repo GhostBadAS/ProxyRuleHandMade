@@ -42,6 +42,8 @@ DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,monikadesign.uk
 #北洋园
 DOMAIN-SUFFIX,tjupt.org
+#星陨阁
+DOMAIN-SUFFIX,xingyungept.org
 #烧包
 DOMAIN-SUFFIX,ptsbao.club
 #TLF
@@ -128,3 +130,7 @@ DOMAIN-SUFFIX,cangbao.ge
 DOMAIN-SUFFIX,ptfans.cc
 #RailgunPT
 DOMAIN-SUFFIX,bilibili.download
+#moment
+DOMAIN-SUFFIX,momentpt.top
+#ptskit
+DOMAIN-SUFFIX,ptskit.org

@@ -17,11 +17,13 @@ hhanclub.net
 t.ubits.club
 sunnytk.top
 ptl.gs
+relay01.ptl.gs
 t.pthome.org
 t.hddolby.com
 daydream.dmhy.best
 anime-no-index.com
 tracker-public.tjupt.org
+tracker.xingyungept.org
 ptsbao.club
 pt.eastgame.org
 discfan.xyz
@@ -37,7 +39,7 @@ tracker.cspt.top
 tracker.cspt.date
 tracker.cspt.cc
 ultrahd.net
-piggo.me
+tracker.piggo.me
 hdfans.org
 tracker.hdarea.club
 tracker.hdtime.org
@@ -70,3 +72,5 @@ www.yhpp.cc
 cangbao.ge
 ptfans.cc
 bilibili.download
+tracker.momentpt.top
+tracker.ptskit.org

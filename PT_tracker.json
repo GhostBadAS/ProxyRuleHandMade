@@ -2,19 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "hhanclub.net",
-        "ptl.gs",
-        "t.hddolby.com",
-        "piggo.me",
-        "tracker.tey.cc",
-        "hdvideo.top",
-        "tracker.mooko.org",
-        "tracker.novahd.top",
-        "tracker.13city.org",
-        "www.yhpp.cc",
-        "cangbao.ge",
-        "ptfans.cc",
-        "bilibili.download"
+        "hhanclub.net"
       ]
     },
     {
@@ -36,10 +24,14 @@
         "tracker.pterclub.net",
         "t.ubits.club",
         "sunnytk.top",
+        "ptl.gs",
+        "relay01.ptl.gs",
         "t.pthome.org",
+        "t.hddolby.com",
         "daydream.dmhy.best",
         "anime-no-index.com",
         "tracker-public.tjupt.org",
+        "tracker.xingyungept.org",
         "ptsbao.club",
         "pt.eastgame.org",
         "discfan.xyz",
@@ -55,6 +47,7 @@
         "tracker.cspt.date",
         "tracker.cspt.cc",
         "ultrahd.net",
+        "tracker.piggo.me",
         "hdfans.org",
         "tracker.hdarea.club",
         "tracker.hdtime.org",
@@ -77,7 +70,18 @@
         "tracker.open.cd",
         "open.cd",
         "tracker.greatposterwall.com",
-        "tracker.52dic.vip"
+        "tracker.52dic.vip",
+        "tracker.tey.cc",
+        "hdvideo.top",
+        "tracker.mooko.org",
+        "tracker.novahd.top",
+        "tracker.13city.org",
+        "www.yhpp.cc",
+        "cangbao.ge",
+        "ptfans.cc",
+        "bilibili.download",
+        "tracker.momentpt.top",
+        "tracker.ptskit.org"
       ]
     }
   ],
