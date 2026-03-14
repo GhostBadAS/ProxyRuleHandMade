@@ -35,18 +35,6 @@
                 "p2pupgrade.gamedl.qq.com",
                 "p2pvod-ws.douyucdn.cn"
             ]
-        }, {
-            "domain_keyword": "pcdn",
-            "domain_suffix": "biliapi.net"
-        }, {
-            "domain_keyword": "pcdn",
-            "domain_suffix": "youku.com"
-        }, {
-            "domain_keyword": "p2p",
-            "domain_suffix": "douyucdn.cn"
-        }, {
-            "domain_keyword": "p2p",
-            "domain_suffix": "qq.com"
         }
     ],
     "version": 2
