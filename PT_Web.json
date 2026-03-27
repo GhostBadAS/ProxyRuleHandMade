@@ -8,7 +8,6 @@
         "audiences.me",
         "hdsky.me",
         "ourhelp.club",
-        "springsunday.net",
         "hdcmct.org",
         "totheglory.im",
         "hdhome.org",
@@ -56,6 +55,12 @@
         "bilibili.download",
         "momentpt.top",
         "ptskit.org"
+      ]
+    },
+    {
+      "domain": [
+        "springsunday.net",
+        "cache.springsunday.net"
       ]
     }
   ],
