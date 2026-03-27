@@ -1,15 +1,15 @@
 {
+  "version": 2,
   "rules": [
     {
       "domain_suffix": [
-        "duokan.club",
-        "duokan.vip",
-        "duokan.dev",
         "challenges.cloudflare.com",
-        "opendoor.cn",
-        "ephone.ai"
+        "duokan.club",
+        "duokan.dev",
+        "duokan.vip",
+        "ephone.ai",
+        "opendoor.cn"
       ]
     }
-  ],
-  "version": 2
+  ]
 }

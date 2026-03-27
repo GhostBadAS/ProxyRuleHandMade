@@ -21,22 +21,41 @@ def convert_list_to_json(input_file):
             elif line.startswith("DOMAIN,"):
                 domain.append(line.split(",", 1)[1].strip())
 
-    rules = []
-    if domain:
-        rules.append({"domain": domain})
-    if domain_suffix:
-        rules.append({"domain_suffix": domain_suffix})
-    if domain_keyword:
-        rules.append({"domain_keyword": domain_keyword})
+    # rules = []
+    # if domain:
+    #     rules.append({"domain": domain})
+    # if domain_suffix:
+    #     rules.append({"domain_suffix": domain_suffix})
+    # if domain_keyword:
+    #     rules.append({"domain_keyword": domain_keyword})
     
 
-    if not rules:
+    # if not rules:
+    #     print(f"⚠️ 跳过空规则文件: {input_file}")
+    #     return
+
+    # data = {        
+    #     "rules": rules,
+    #     "version": 2
+    # }
+    rule = {}
+
+    if domain:
+        rule["domain"] = sorted(domain)
+
+    if domain_suffix:
+        rule["domain_suffix"] = sorted(domain_suffix)
+
+    if domain_keyword:
+        rule["domain_keyword"] = sorted(domain_keyword)
+
+    if not rule:
         print(f"⚠️ 跳过空规则文件: {input_file}")
         return
 
-    data = {        
-        "rules": rules,
-        "version": 2
+    data = {
+        "version": 2,
+        "rules": [rule]
     }
 
     with open(output_file, "w", encoding="utf-8") as f:
