@@ -2,10 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "cache.springsunday.net",
-        "springsunday.net"
-      ],
       "domain_suffix": [
         "0ff.cc",
         "13city.org",
@@ -51,6 +47,7 @@
         "qingwapt.com",
         "rousi.zip",
         "sjtu.edu.cn",
+        "springsunday.net",
         "sunnypt.top",
         "tey.cc",
         "tjupt.org",

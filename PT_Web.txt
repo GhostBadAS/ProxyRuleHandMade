@@ -5,7 +5,6 @@ audiences.me
 hdsky.me
 ourhelp.club
 springsunday.net
-cache.springsunday.net
 hdcmct.org
 totheglory.im
 hdhome.org
