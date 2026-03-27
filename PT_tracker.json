@@ -1,11 +1,6 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "hhanclub.net"
-      ]
-    },
-    {
       "domain": [
         "tracker.m-team.cc",
         "tracker.ptchdbits.co",
@@ -82,6 +77,11 @@
         "bilibili.download",
         "tracker.momentpt.top",
         "tracker.ptskit.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "hhanclub.net"
       ]
     }
   ],

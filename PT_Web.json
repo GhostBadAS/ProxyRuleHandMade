@@ -1,6 +1,12 @@
 {
   "rules": [
     {
+      "domain": [
+        "springsunday.net",
+        "cache.springsunday.net"
+      ]
+    },
+    {
       "domain_suffix": [
         "m-team.cc",
         "m-team.io",
@@ -55,12 +61,6 @@
         "bilibili.download",
         "momentpt.top",
         "ptskit.org"
-      ]
-    },
-    {
-      "domain": [
-        "springsunday.net",
-        "cache.springsunday.net"
       ]
     }
   ],

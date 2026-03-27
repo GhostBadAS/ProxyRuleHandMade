@@ -22,12 +22,13 @@ def convert_list_to_json(input_file):
                 domain.append(line.split(",", 1)[1].strip())
 
     rules = []
+    if domain:
+        rules.append({"domain": domain})
     if domain_suffix:
         rules.append({"domain_suffix": domain_suffix})
     if domain_keyword:
         rules.append({"domain_keyword": domain_keyword})
-    if domain:
-        rules.append({"domain": domain})
+    
 
     if not rules:
         print(f"⚠️ 跳过空规则文件: {input_file}")
