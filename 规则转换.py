@@ -27,7 +27,7 @@ def convert_list_to_json(input_file):
     if domain_keyword:
         rules.append({"domain_keyword": domain_keyword})
     if domain:
-        rules.append({"full": domain})
+        rules.append({"domain": domain})
 
     if not rules:
         print(f"⚠️ 跳过空规则文件: {input_file}")
