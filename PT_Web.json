@@ -2,6 +2,9 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "www.haidan.cc"
+      ],
       "domain_suffix": [
         "0ff.cc",
         "13city.org",

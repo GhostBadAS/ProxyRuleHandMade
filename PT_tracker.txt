@@ -70,3 +70,4 @@ ptfans.cc
 bilibili.download
 tracker.momentpt.top
 tracker.ptskit.org
+announce.haidan.cc
