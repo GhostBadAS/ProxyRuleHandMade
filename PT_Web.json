@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "byr.pt",
         "www.haidan.cc"
       ],
       "domain_suffix": [

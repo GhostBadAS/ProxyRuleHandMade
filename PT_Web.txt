@@ -50,3 +50,4 @@ bilibili.download
 momentpt.top
 ptskit.org
 www.haidan.cc
+byr.pt
