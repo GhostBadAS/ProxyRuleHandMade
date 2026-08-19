@@ -71,3 +71,5 @@ bilibili.download
 tracker.momentpt.top
 tracker.ptskit.org
 announce.haidan.cc
+tracker.torrentleech.org
+tracker.tleechreload.org
