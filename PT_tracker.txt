@@ -19,7 +19,7 @@ sunnytk.top
 ptl.gs
 relay01.ptl.gs
 t.pthome.org
-t.hddolby.com
+t.uhddolby.com
 daydream.dmhy.best
 anime-no-index.com
 tracker-public.tjupt.org
