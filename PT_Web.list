@@ -131,6 +131,6 @@ DOMAIN-SUFFIX,ptskit.org
 #海胆
 DOMAIN,www.haidan.cc
 #北邮人
-DOMAIN,byr.pt
+DOMAIN-SUFFIX,byr.pt
 #torrentleech
 DOMAIN-SUFFIX,torrentleech.org

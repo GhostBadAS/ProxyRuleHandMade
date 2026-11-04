@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "byr.pt",
         "www.haidan.cc"
       ],
       "domain_suffix": [
@@ -12,6 +11,7 @@
         "agsvpt.com",
         "audiences.me",
         "bilibili.download",
+        "byr.pt",
         "cangbao.ge",
         "carpt.net",
         "dicmusic.com",
